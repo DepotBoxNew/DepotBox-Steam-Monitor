@@ -5,5 +5,3 @@ Pattern and IPC metadata for the DepotBox Tool, keyed by binary SHA-256.
     pattern/steamclient/<sha256>.toml
     pattern/steamui/<sha256>.toml
     ipc/steamclient/<sha256>.toml
-
-Generated and committed automatically by the monitor on each stable Steam build.
